@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Запеченная курица",
+    "servings": 4,
+    "recipe": "Курица с картофелем и специями",
+    "tasks": [
+      {
+        "title": "Подготовить и замариновать",
+        "minutes": 20,
+        "active": true
+      },
+      {
+        "title": "Запекать в духовке",
+        "minutes": 75,
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Салат Цезарь",
+    "servings": 4,
+    "recipe": "Салат с курицей и соусом",
+    "tasks": [
+      {
+        "title": "Нарезать и смешать",
+        "minutes": 20,
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Тирамису",
+    "servings": 6,
+    "recipe": "Десерт без выпечки",
+    "tasks": [
+      {
+        "title": "Собрать десерт",
+        "minutes": 30,
+        "active": true
+      },
+      {
+        "title": "Охлаждать",
+        "minutes": 240,
+        "active": false
+      }
+    ]
+  }
+]
